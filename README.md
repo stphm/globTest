@@ -14,7 +14,7 @@ Ce repository contient la solution au challenge GlobTest en PHP, qui consiste à
 
 ### Question 1
 
-La fonction `foo()` prend en entrée une liste de plage d'entiers sous forme de tableau, ou chaque intervalle est dérini par une paire de valeur représentant le début et la fin de l'intervalle. 
+La fonction `foo()` prend en entrée une liste de plage d'entiers sous forme de tableau, ou chaque intervalle est défini par une paire de valeur représentant le début et la fin de l'intervalle. 
 
 La fonction `foo()` permet de fusionner les intervalles qui se chevauchent ou se touchent en les fusionnant pour former de nouvelles plages plus grandes ou regroupe plusieurs intervalles en une seule. Enfin elle retourne une nouvelle liste de liste de plages fusionnées sans aucun chevauchement. 
 
