@@ -36,7 +36,7 @@ cd globTest
 ```
 4. Exécutez la commande suivante pour tester la fonction `foo()` avec les jeux de test fournis :
     ```
-    php test_jeu.php
+    php foo_function.php
     ```
 
 ### Question 3
