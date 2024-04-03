@@ -27,12 +27,12 @@ La fonction `foo()` permet de fusionner les intervalles qui se chevauchent ou se
 1. Téléchargez ou clonez ce repository sur votre machine locale.
 1. Clonez ce repository 
   ```bash
-   git clone https://github.com/stphm/globTest.git
+   git clone git@github.com:stphm/globTest_Stephanie_PHAM.git
    ```
 2. Ouvrez un terminal ou une invite de command. 
 3. Se rendre dans le dossier du projet 
 ```bash
-cd globTest
+cd globTest_Stephanie_PHAM
 ```
 4. Exécutez la commande suivante pour tester la fonction `foo()` avec les jeux de test fournis :
     ```
